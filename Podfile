@@ -6,7 +6,12 @@ target 'GiphyBrowser' do
   use_frameworks!
 
   # Pods for GiphyBrowser
-
+  pod 'Alamofire', '~> 4.6'
+  pod 'RxSwift', '~> 4.1'
+  pod 'RxCocoa', '~> 4.1'
+  
+  pod 'EmptyDataSet-Swift', '~> 4.0.2'
+  
   target 'GiphyBrowserTests' do
     inherit! :search_paths
     # Pods for testing

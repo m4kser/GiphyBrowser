@@ -1,0 +1,16 @@
+/* 
+  Localizable.strings
+  GiphyBrowser
+
+  Created by Admin on 16.02.18.
+  Copyright © 2018 Makser. All rights reserved.
+*/
+
+"main_screen_title" = "Trending";
+
+"filter_screen_title" = "Choose rating";
+
+"alert_title_error" = "Error";
+"alert_button_title_ok" = "OK";
+
+"message_no_data_default" = "Hmm,\nsomething went wrong.\nPull to refresh data";
